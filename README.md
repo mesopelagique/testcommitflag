@@ -1,5 +1,5 @@
 # testcommitflag
 
-- Feature
+- feat
 - add
 - fix
